@@ -2,7 +2,7 @@
     define('HOST', 'localhost');
     define('DBNAME', 'crud-mvc-php');
     define('USER', 'root');
-    define('PASSWORD', 'root');
+    define('PASSWORD', '');
 
     class Connect{
         protected $connection;
